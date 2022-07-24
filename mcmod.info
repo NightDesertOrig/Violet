@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "violet",
+    "name": "Violet",
+    "description": "violet",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "violet",
+    "updateUrl": "violet",
+    "authorList": ["9k", "Reap"],
+    "credits": "wuoawd",
+    "logoFile": "adwdawd",
+    "screenshots": ["adw", "AWFad"],
+    "dependencies": []
+  }
+]
